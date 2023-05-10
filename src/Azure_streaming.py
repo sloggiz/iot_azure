@@ -68,6 +68,6 @@ def iothub_client_telemetry_sample_run():
         sys.exit()
 
 if __name__ == '__main__':
-    print ( "Azure IoT Workshop - Raspberry PI device" )
+    print ( "Azure IoT Medium Post - Raspberry PI device" )
     print ( "Press Ctrl-C to exit" )
     iothub_client_telemetry_sample_run()
