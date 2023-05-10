@@ -1,3 +1,9 @@
+"""
+================================================================================
+Author:      Stepan Gaponiuk - D ONE 2023
+Description: This script blinks the LED when reed switch is engaged and sends data to Azure IoT Hub
+================================================================================
+"""
 import time
 import sys
 import RPi.GPIO as io
